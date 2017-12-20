@@ -12,7 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        var tableView:UITableView
+        NSLog("\(Tom())")
         
         // Do any additional setup after loading the view, typically from a nib.
     }
